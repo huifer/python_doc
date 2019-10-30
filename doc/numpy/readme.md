@@ -6,3 +6,5 @@
 ## [数组操作(不完整)](array_operation.ipynb)
 ## [时间操作(不完整)](time_operation.ipynb)
 ## [线性代数(不完整)](linalg.ipynb)
+## [统计(不完整)](statistics.ipynb)
+## [集合操作](set.ipynb)
