@@ -52,7 +52,7 @@ def inv2(x: np.ndarray) -> np.ndarray:
     return np.matrix(x).I
 
 
-def rank(x: np.ndarray) -> np.float_:
+def rank(x: np.ndarray) :
     """矩阵rank"""
     return np.linalg.matrix_rank(x)
 
