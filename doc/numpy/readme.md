@@ -8,3 +8,4 @@
 ## [线性代数(不完整)](linalg.ipynb)
 ## [统计(不完整)](statistics.ipynb)
 ## [集合操作](set.ipynb)
+## [替换](replace.ipynb)
