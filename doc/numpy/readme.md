@@ -10,3 +10,5 @@
 ## [集合操作](set.ipynb)
 ## [替换](replace.ipynb)
 ## [读取写出](read_write.ipynb)
+## [numpy100](https://github.com/rougier/numpy-100)
+## [nan&inf](nan_inf.ipynb)
