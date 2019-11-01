@@ -1,4 +1,4 @@
-# numpy
+# NumPy
 
 ## [快速入门](quickstart.ipynb)
 ## [矩阵运算](matrix.ipynb)
@@ -12,3 +12,4 @@
 ## [读取写出](read_write.ipynb)
 ## [numpy100](https://github.com/rougier/numpy-100)
 ## [nan&inf](nan_inf.ipynb)
+## [数学函数](math_function.ipynb)
