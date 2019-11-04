@@ -8,4 +8,4 @@
 ## [文本设置 Text](Text.ipynb)
 ## [图例](legend.ipynb)
 ## [颜色](color.ipynb)
-## [符号](Symbol.ipynb)
+## [符号](Symbol.md)
