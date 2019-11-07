@@ -2,6 +2,7 @@
 ## [快速入门](quickstart.ipynb)
 ## [Pandas 速查表](pandas_table.ipynb)
 ## [数据类型](pd_data_type.ipynb)
+## [时间操作](pd_time.ipynb)
 ## [IO 操作](pd_io.ipynb)
 ## [索引操作](pd_index.ipynb)
 ## [合并操作](pd_merge.ipynb)
