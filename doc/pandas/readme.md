@@ -8,6 +8,6 @@
 ## [合并操作](pd_merge.ipynb)
 ## [数据透视表](pd_pivot_table.ipynb)
 ## [文本处理](pd_text.ipynb)
-## [缺损值处理](pd_missing.ipynb)
+## [缺失值处理](pd_missing.ipynb)
 ## [group 操作](pd_group.ipynb)
 ## [可视化](pd_visualization.ipynb)
